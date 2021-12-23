@@ -37,7 +37,7 @@ html {
 }
 
 .header {
-  background-image: url("/images/bg-header-mobile.png");
+  background-image: url("../images/bg-header-mobile.png");
   background-size: contain;
   background-repeat: no-repeat;
   padding: 10em 3em;
@@ -269,7 +269,7 @@ html {
 
 @media (min-width: 576px) {
   .header {
-    background-image: url("/images/bg-header-desktop.png");
+    background-image: url("../images/bg-header-desktop.png");
   }
   .header__info-heading {
     font-size: 3.4rem;
